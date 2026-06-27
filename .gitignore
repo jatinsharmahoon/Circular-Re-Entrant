@@ -1,0 +1,11 @@
+# ANSYS temporary and solver files
+*.log
+*.err
+*.page
+*.rst
+*.BKP
+*_files/
+
+# OS generated files
+.DS_Store
+Thumbs.db
